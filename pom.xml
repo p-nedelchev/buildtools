@@ -8,14 +8,14 @@
     <artifactId>mavenbuild</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <packaging>pom</packaging>
-
     <modules>
         <module>myproject</module>
         <module>myproject-bl</module>
         <module>myproject-bo</module>
         <module>myproject-pl</module>
     </modules>
+
+    <packaging>pom</packaging>
 
     <dependencies>
         <dependency>

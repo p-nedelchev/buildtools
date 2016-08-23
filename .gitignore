@@ -16,10 +16,12 @@ build
 *.ear
 
 # User-specific stuff:
-.idea/*.xml
+.idea/
 
 # File-based project format:
+*.ipr
 *.iws
+*.imlg
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
