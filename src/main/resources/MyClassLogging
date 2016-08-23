@@ -1,1 +1,6 @@
 Directory browser was called with path:/home/clouway
+	 return:[Desktop, .bash_history, .dmrc, java_error_in_IDEA_2468.log, .profile, .wget-hsts, Downloads, .ICEauthority, .xinputrc, Pictures, Templates, .gitconfig, .xsession-errors.old, .sudo_as_admin_successful, .gnome, .gconf, .macromedia, .gradle, development, Music, .java, Wiki, .mozilla, .ssh, .thunderbird, .xsession-errors, .IdeaIC2016.2, Public, clouway, Documents, .bashrc, .local, .bash_logout, .adobe, .config, .gnupg, .IdeaIC2016.1, .viminfo, examples.desktop, Videos, .android, .cache, .Xauthority, .m2]
+Directory browser was called with path:/home/clouway/clouway/workspaces
+	 return:[idea]
+Directory browser was called with path:/
+	 return:[tmp, proc, sbin, vmlinuz, media, lib, sys, dev, lost+found, mnt, cdrom, snap, initrd.img.old, bin, srv, usr, opt, etc, lib64, initrd.img, home, boot, var, root, run, vmlinuz.old]
